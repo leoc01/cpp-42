@@ -11,7 +11,7 @@
 # **************************************************************************** #
 
 # Target
-NAME = hordes
+NAME = pef
 
 # Tools
 CXX = c++
@@ -25,7 +25,7 @@ BUILD_DIR = build
 SRC_DIR = src
 
 # Source files
-FILES = main.cpp Zombie.cpp zombieHorde.cpp
+FILES = main.cpp
 
 # Fullpath for source and objects
 SRC := $(addprefix $(SRC_DIR)/,$(FILES))

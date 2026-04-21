@@ -11,16 +11,18 @@
 /* ************************************************************************** */
 
 #include <iostream>
-#include "Zombie.hpp"
-
-Zombie* zombieHorde( int N, std::string name );
 
 int main(void)
 {
-	Zombie* zombies = zombieHorde(3, "Roberto");
+	std::string string = "HI THIS IS BRAIN";
+	std::string* stringPTR = &string;
+	std::string& stringREF = string;
 
-	zombies[0].announce();
-	zombies[1].announce();
-	zombies[2].announce();
-	delete[] zombies;
+	std::cout << &string << std::endl;
+	std::cout << stringPTR << std::endl;
+	std::cout << &stringREF << std::endl;
+
+	std::cout << string << std::endl;
+	std::cout << *stringPTR << std::endl;
+	std::cout << stringREF << std::endl;
 }
