@@ -1,0 +1,11 @@
+My evaluator is username
+
+username is doing an amazing evaluation.
+
+This is to show username that this function works
+perfectly when the string to replace is on the
+beginning, on the end, and also when repeates on
+the same line.
+
+username: "great function lbuscaro, i am username,
+and you are aproved on CPP 01."
