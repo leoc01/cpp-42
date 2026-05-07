@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: lbuscaro <lbuscaro@student.42porto.com>    +#+  +:+       +#+         #
+#    By: lbuscaro <lbuscaro@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/04/07 15:09:01 by lbuscaro          #+#    #+#              #
-#    Updated: 2026/04/07 15:09:02 by lbuscaro         ###   ########.fr        #
+#    Updated: 2026/05/07 11:49:37 by lbuscaro         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
